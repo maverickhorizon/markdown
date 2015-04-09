@@ -1,8 +1,5 @@
-```sh
-KSHITIJ MANOHAR CHAWREY 
-```
+![KSHITIJ MANOHAR CHAWREY](/images/logo.png)
 
-![GitHub Logo](/images/logo.png)
 ```sh
 Professional Synopsis
 ```
