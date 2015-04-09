@@ -1,4 +1,4 @@
-![KSHITIJ MANOHAR CHAWREY](/images/logo.png)
+![KSHITIJ MANOHAR CHAWREY](https://cloud.githubusercontent.com/assets/11867738/7063482/d2b2067c-dec4-11e4-9c48-1a5e956d23d0.jpg)
 
 ```sh
 Professional Synopsis
